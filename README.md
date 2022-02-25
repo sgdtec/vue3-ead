@@ -1,4 +1,4 @@
-# vue3-ead
+# Projeto Curso vue3-ead
 
 ## Project setup
 ```
